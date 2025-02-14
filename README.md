@@ -6,4 +6,6 @@ Low-latency speech translation, also known as simultaneous speech translation is
 
 ## The Role of Future Context Prediction in Low-Latency Speech Translation
 Even tough the method of incremental decoding improves the latency of the speech translation, it has several shortcomings. The system needs to wait for a specific number of chunks before starting the inference.
-The reason for that is the lack of context in the early chunks of the input. Therefore starting the inference from very early chunk steps may result in unstable and incorrect predictions. However waiting for a specific number of chunk steps increases the latency of the system. 
+The reason for that is the lack of context in the early chunks of the input. Therefore starting the inference from very early chunk steps may result in unstable and incorrect predictions. However waiting for a specific number of chunk steps comed with a latency penalty. If the system does not wait for several steps to prevent increased latency, the inference quality may drop significantly.
+
+In order to overcome this problem, one can make use of large language models which can predict the future context of a given incomplete sentence. If the future context of the input is predicted in earlier chunk steps, the system will obtain more context. This will not only enable the system to start the inference in earlier chunk steps thus improving latency, but also to increase the inference quality of system in early steps' partial outputs.
