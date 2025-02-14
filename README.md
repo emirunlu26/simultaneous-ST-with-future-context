@@ -27,12 +27,10 @@ Janaury 2001 Brussels? in(2001): url: https://www.europarl.europa.eu/interp/remo
 interpreting/ep_report1.pdf.
 
 [5] Danni Liu, Gerasimos Spanakis and Jan Niehues. ?Low-Latency Sequence-to-Sequence Speech
-Recognition and Translation by Partial Hypothesis Selection? in(2020): url: https://arxiv.
-org/abs/2005.11185.
+Recognition and Translation by Partial Hypothesis Selection? in(2020): url: https://arxiv.org/abs/2005.11185.
 
 [6] Renze Lou, Kai Zhang and Wenpeng Yin. ?Large Language Model Instruction Following:
-A Survey of Progresses and Challenges? in(2024): url: https : / / arxiv . org / html / 2303 .
-10475v8.
+A Survey of Progresses and Challenges? in(2024): url: https://arxiv.org/html/2303.10475v8.
 
 [7] Mingbo Ma, Liang Huang, Hao Xiong, Renjie Zheng, Kaibo Liu, Baigong Zheng, Chuanqiang
 Zhang, Zhongjun He, Hairong Liu, Xing Li, Hua Wu and Haifeng Wang. ?STACL: Simultaneous
@@ -40,8 +38,7 @@ Translation with Implicit Anticipation and Controllable Latency using Prefix-to-
 in(2019): url: https://aclanthology.org/P19-1289/.
 
 [8] Xutai Ma, Mohammad Javad Dousti, Changhan Wang, Jiatao Gu and Juan Pino. ?SimulEval:
-An Evaluation Toolkit for Simultaneous Translation? in(2020): url: https://arxiv.org/
-abs/2007.16193.
+An Evaluation Toolkit for Simultaneous Translation? in(2020): url: https://arxiv.org/abs/2007.16193.
 
 [9] Jan Niehues, Thai Son Nguyen, Thanh Le Ha and Eunah Cho. ?Dynamic Transcription
 for Low-Latency Speech Translation? in(2016): doi: http : / / dx . doi . org / 10 . 21437 /
@@ -52,5 +49,4 @@ Dynamic_Transcription_for_Low-Latency_Speech_Translation.
 Latency Neural Speech Translation? in(2018): url: https://arxiv.org/abs/1808.00491.
 
 [11] Takaaki Saeki, Shinnosuke Takamichi and Hiroshi Saruwatari. ?Low-Latency Incremental
-Text-to-Speech Synthesis with Distilled Context Prediction Network? in(2021): url: https:
-//arxiv.org/abs/2109.10724v1.
+Text-to-Speech Synthesis with Distilled Context Prediction Network? in(2021): url: https://arxiv.org/abs/2109.10724v1.
