@@ -1,0 +1,4 @@
+11000.0000 0 10160  There is signal that we cannot continue as we are, and that thanks to borrowing that has been too cheap, and imports that have been too cheap, we've all been living above our
+13000.0000 10180 12120  means and we cannot go
+14000.0000 12100 12420  on
+14360.0000 12420 14240  consuming at the same rate.

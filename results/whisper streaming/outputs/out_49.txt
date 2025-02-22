@@ -1,0 +1,11 @@
+2000.0000 0 580  Recently,
+6000.0000 840 5200  our Prime Minister met the President of the European Commission, Mr
+8000.0000 5200 6860  Barroso, and
+11000.0000 6860 10160  in our paper there were some interpretations that
+12000.0000 10160 10960  there is
+13000.0000 10960 12260  a gap, there is a
+14000.0000 12260 12820  possibility
+15000.0000 13160 14020  to prolong
+18000.0000 14020 17060  this, to prolong
+18740.0000 17060 17980  the work of this
+18740.0000 17980 18540  station.

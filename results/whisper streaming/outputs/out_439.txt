@@ -1,0 +1,8 @@
+6000.0000 0 4960  However, we would point out that because this money is coming from the margin of heading
+8000.0000 4960 6940  1A, that will
+9000.0000 6940 8100  reduce the margin and
+10000.0000 8100 9300  therefore reduce the
+11000.0000 9300 9980  availability of
+12000.0000 9980 10740  funding for other
+13000.0000 10740 12000  projects, which may
+13310.0000 12000 13200  be important in the future.

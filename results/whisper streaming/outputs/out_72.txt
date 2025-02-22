@@ -1,0 +1,9 @@
+4000.0000 0 2500  For example, I've been dealing with a company called the European
+5000.0000 2500 4440  Timeshare Owners Association.
+7000.0000 5060 6040  which operates in
+9000.0000 6040 8220  Spain, but conveniently for an address in
+10000.0000 8220 8920  Gibraltar.
+14000.0000 9660 12960  and I've had constituents tell me that they were
+15000.0000 12960 13840  approached by this
+17660.0000 13840 16660  company who offered to resell their
+17660.0000 16660 17500  timeshare

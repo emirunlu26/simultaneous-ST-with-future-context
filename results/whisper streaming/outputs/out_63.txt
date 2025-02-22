@@ -1,0 +1,3 @@
+3000.0000 0 1420  They need to know that we
+4000.0000 1420 3240  care and that we will not
+4120.0000 3240 4060  ignore them.

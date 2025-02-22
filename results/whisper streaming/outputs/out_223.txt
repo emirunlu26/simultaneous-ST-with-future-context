@@ -1,0 +1,2 @@
+4000.0000 0 3020  You're helping to kill off an industry which is already
+4010.0000 3020 3880  in serious bother.

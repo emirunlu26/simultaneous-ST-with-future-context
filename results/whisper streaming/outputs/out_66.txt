@@ -1,0 +1,4 @@
+8000.0000 0 7060  And I cannot see how that is doing anything other than checking that that person is in
+9000.0000 7080 8460  possession of a
+10000.0000 8460 8800  valid
+10050.0000 8800 9260  passport.

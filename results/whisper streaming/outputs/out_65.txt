@@ -1,0 +1,10 @@
+8000.0000 0 5820  But if I can say, I've witnessed the use of these passports and I wonder if you can tell me where I'm going
+10000.0000 5820 8820  wrong. Because what happens, Minister, is a
+11000.0000 8820 9960  person in possession of
+13000.0000 9960 11900  an electronic passport comes up to a
+14000.0000 11900 13200  machine, places
+15000.0000 13200 14200  his or her
+16000.0000 14200 15220  passport on the
+18000.0000 15220 16900  reader and then walks
+18930.0000 16900 18420  through if the passport is
+18930.0000 18420 18800  in order.

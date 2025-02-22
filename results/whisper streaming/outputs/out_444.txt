@@ -1,0 +1,9 @@
+2000.0000 0 720  Thank you very much, President.
+5000.0000 1660 2440  After 15
+6000.0000 2440 5000  years this will be my last speech in the European Parliament and I
+7000.0000 4980 5880  think there are
+9000.0000 5880 7960  few more important issues than the whole
+10000.0000 7960 8900  question of
+11000.0000 8900 9940  asylum and how
+12000.0000 9940 10420  European
+12250.0000 10420 11900  countries face this challenge.

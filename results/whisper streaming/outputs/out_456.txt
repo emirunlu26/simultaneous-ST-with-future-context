@@ -1,0 +1,7 @@
+4000.0000 0 2860  A promotion should be adapted to political
+8000.0000 2860 5440  and economic situation in a given country.
+10000.0000 5700 9280  but previous EU experience in the promotion
+11000.0000 9280 10080  of democracy
+12000.0000 10100 10660  in North
+13000.0000 10640 12140  Africa, Middle East and
+13080.0000 12140 12920  Eastern Europe

@@ -1,0 +1,5 @@
+7000.0000 0 6080  Indeed, there are other issues included in this report, such as living wills and the right to dignity at the end of
+8000.0000 6080 7120  life, which are
+9000.0000 7140 8080  sensitive
+10900.0000 8080 9940  issues regarding which we have
+10900.0000 9940 10820  had to abstain.

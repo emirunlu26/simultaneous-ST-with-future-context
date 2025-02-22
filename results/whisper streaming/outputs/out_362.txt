@@ -1,0 +1,4 @@
+2000.0000 0 1140  Let us hope that we'll
+3000.0000 1140 1860  learn this time
+4000.0000 1860 3140  more than it was done
+5200.0000 3140 4940  out of previous episodes of Crisis.

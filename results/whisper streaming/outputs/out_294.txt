@@ -1,0 +1,7 @@
+3000.0000 0 2040  I think the summit has come
+4000.0000 2040 3220  up with a number of important
+6000.0000 3240 5300  decisions, but at the same time
+7000.0000 5300 6000  I am
+8000.0000 6000 7080  of the opinion that we need
+9000.0000 7080 7940  more and we need
+9210.0000 7940 9060  to move faster.

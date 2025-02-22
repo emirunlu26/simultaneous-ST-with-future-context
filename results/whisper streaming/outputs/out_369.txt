@@ -1,0 +1,5 @@
+6000.0000 0 160  The
+7000.0000 160 6020  Commissioner, in his remarks, said we need the same rights to all passengers, with no exceptions, and then he
+8000.0000 6020 6560  spoke about the
+9000.0000 6560 7900  exceptions, for example, for
+9130.0000 7900 8920  regional transport.

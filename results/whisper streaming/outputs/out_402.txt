@@ -1,0 +1,7 @@
+7000.0000 0 5380  Mr. President, on behalf of one of my constituents, I want to raise the case of a young
+8000.0000 5380 6380  man with
+9000.0000 6400 7960  dual British-Greek
+10000.0000 7960 8800  nationality.
+11000.0000 9180 9700  His name
+12000.0000 9700 10700  is John
+12260.0000 10700 12120  Zafiropoulos.

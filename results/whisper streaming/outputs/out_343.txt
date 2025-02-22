@@ -1,0 +1,10 @@
+6000.0000 0 800  In the last 10
+7000.0000 800 5900  years, I've heard many criticisms of it, including the lack of a level playing field, insufficient
+8000.0000 5940 6640  stakeholder
+9000.0000 6640 8100  involvement, inadequate
+10000.0000 8100 9060  balancing of
+11000.0000 9060 10240  economic, social and
+12000.0000 10240 10900  environmental
+14000.0000 10900 13160  imperatives, and too much by way of
+14960.0000 13160 13960  micromanagement
+14960.0000 13960 14780  from the centre.

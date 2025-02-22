@@ -1,0 +1,4 @@
+12000.0000 0 11120  Unfortunately, very often the Internet, just like in any human society, we have to face the sad fact that regulations are needed to make sure that those who cannot
+13000.0000 11120 12120  protect themselves
+13510.0000 12120 12540  would be
+13510.0000 12540 13420  protected too.

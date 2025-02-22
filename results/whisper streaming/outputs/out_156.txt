@@ -1,0 +1,3 @@
+2000.0000 0 1060  This is in the interest of
+3000.0000 1060 2120  bringing our industry
+3460.0625 2120 3240  together across Europe.

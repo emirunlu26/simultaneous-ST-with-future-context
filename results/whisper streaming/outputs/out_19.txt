@@ -1,0 +1,5 @@
+4000.0000 0 2960  But we have a problem now, and changing the rules
+5000.0000 2960 4120  after the problem has
+6000.0000 4120 5600  arisen is not
+7000.0000 5600 5920  going to
+7120.0000 5920 6920  help us with that problem.

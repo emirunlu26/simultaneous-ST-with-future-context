@@ -1,0 +1,10 @@
+4000.0000 0 2120  One year ago, the framework of the
+5000.0000 2140 3840  conference, HIV in
+6000.0000 3840 4120  Europe
+8000.0000 4120 7000  2007, participants developed
+9000.0000 7000 7940  a comprehensive
+10000.0000 7940 8820  call to
+11000.0000 8820 9940  action on
+12000.0000 9940 11320  measures how to effectively
+13000.0000 11340 11860  tackle
+13630.0000 11860 13500  HIV AIDS in Europe.

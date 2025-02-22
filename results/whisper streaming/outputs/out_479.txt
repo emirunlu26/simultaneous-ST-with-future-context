@@ -1,0 +1,3 @@
+2000.0000 0 200  In
+3370.0000 200 2820  big picture, we could be close to real
+3370.0000 2820 3240  balance.

@@ -1,0 +1,5 @@
+6000.0000 0 4360  There is consequently a need for improved spatial analysis and the development of
+7000.0000 4360 6180  indicators against which policies
+8000.0000 6200 6580  can be
+8740.0000 6580 7460  designed and their
+8740.0000 7460 8320  impact assessed.

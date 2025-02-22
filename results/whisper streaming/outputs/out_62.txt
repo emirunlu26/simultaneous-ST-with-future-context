@@ -1,0 +1,4 @@
+2000.0000 0 540  The people of
+3000.0000 560 1980  Belarus yearn to
+3850.0000 1980 3080  take their place in the
+3850.0000 3080 3620  new Europe.

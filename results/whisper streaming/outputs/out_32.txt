@@ -1,0 +1,3 @@
+2000.0000 0 620  We expect the
+2580.0000 620 1740  Commission to take a serious
+2580.0000 1740 2440  action on this.

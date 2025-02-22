@@ -1,0 +1,5 @@
+3000.0000 0 1820  Let me highlight one part of
+4000.0000 1820 3000  this directive which is highly
+5000.0000 3000 3920  important for many
+7890.0000 3900 4160  Member
+7890.0000 4160 7820  States and this is particularly the text concerning subcontracting.

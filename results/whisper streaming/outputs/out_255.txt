@@ -1,0 +1,2 @@
+15990.0000 0 15280  Despite various initiatives to improve the quality and availability of health information, studies indicate that patients want more information than they currently receive and that health professionals tend to overestimate the amount of information
+15990.0000 15280 15880  that's supplied.

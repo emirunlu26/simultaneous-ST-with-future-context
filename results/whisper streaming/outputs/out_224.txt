@@ -1,0 +1,6 @@
+8000.0000 0 2600  Mr. President, regarding the report of
+9000.0000 2580 8060  patients' rights in cross-border health care, I would like to emphasize the issue of the patients' rights
+10000.0000 8060 8800  to be informed
+11000.0000 8780 9620  about the available
+12000.0000 9640 10920  medication and
+12330.0000 10920 12120  treatment options.

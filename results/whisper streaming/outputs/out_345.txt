@@ -1,0 +1,8 @@
+2000.0000 0 760  Of course, there is
+3000.0000 760 1760  still a long way to
+5000.0000 1760 2680  go, eliminating
+6000.0000 2680 4760  discards, for example, and
+7000.0000 4760 5640  there are times when the
+8000.0000 5640 6860  Commission still seems to
+8590.0000 6860 7900  veer towards macro
+8590.0000 7900 8420 -management.

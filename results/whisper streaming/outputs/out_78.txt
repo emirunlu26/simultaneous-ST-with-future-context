@@ -1,0 +1,12 @@
+3000.0000 0 1100  Secondly, on
+8000.0000 1060 6720  sea and air travel, the Internal Market Committee believes strongly that
+9000.0000 6720 8980  travellers whose final destination is the
+11000.0000 9460 10180  as opposed to a
+12000.0000 10180 10960  transit destination,
+13000.0000 11080 11480  the final
+14000.0000 11480 13140  destination, should be allowed to
+15000.0000 13140 13540  buy duty
+16000.0000 13560 14880 -free, because that
+17000.0000 14900 15300  would help
+18000.0000 15300 16300  small regional
+18270.0000 16300 17980  airports generate revenue.

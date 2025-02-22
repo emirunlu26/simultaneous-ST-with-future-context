@@ -1,0 +1,4 @@
+2000.0000 0 480  This means
+3000.0000 500 1180  eliminating
+4000.0000 1180 3260  disparities within as well as
+4370.0000 3260 4040  between regions.

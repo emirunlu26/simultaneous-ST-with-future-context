@@ -1,0 +1,5 @@
+2000.0000 0 1080  The time has come to
+3000.0000 1080 1580  pick up the
+4000.0000 1600 2860  pieces and bring
+4950.0000 2860 3800  about intra
+4950.0000 3800 4700 -Somali peace.

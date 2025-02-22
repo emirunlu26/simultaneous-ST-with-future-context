@@ -1,0 +1,9 @@
+2000.0000 0 280  We've
+3000.0000 280 2220  seen a development of
+4000.0000 2220 2820  new financial
+5000.0000 2820 4080  instruments that
+6000.0000 4080 4800  are, however, not
+7000.0000 4800 5280  transparent
+8000.0000 5280 7060  enough and they do not allow
+8970.0000 7060 7660  for proper
+8970.0000 7660 8720  risk assessment.

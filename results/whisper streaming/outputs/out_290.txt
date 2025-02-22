@@ -1,0 +1,4 @@
+3000.0000 0 1700  Certainly such impact assessment
+8000.0000 1720 7160  could pre-empt certain problems such as those posed by the electronic identification
+8590.0000 7160 7720  of sheep
+8590.0000 7720 8360  in Scotland.

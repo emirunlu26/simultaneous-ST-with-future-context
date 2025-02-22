@@ -1,0 +1,8 @@
+4000.0000 0 3180  Although the report refers to numerous issues of fundamental
+5000.0000 3180 3520  human
+7000.0000 3500 5560  rights which are laudable, it
+8000.0000 5560 7120  includes other issues such
+9000.0000 7120 7280  as
+10000.0000 7280 9180  abortion, which should never have
+10850.0000 9180 10060  been included in
+10850.0000 10060 10660  this report.

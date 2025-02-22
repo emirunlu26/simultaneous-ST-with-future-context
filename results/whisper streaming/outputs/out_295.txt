@@ -1,0 +1,10 @@
+2000.0000 0 360  When we
+3000.0000 360 1180  go to
+4000.0000 1200 3560  the G20 meeting in London...
+7000.0000 4600 5680  a
+8000.0000 5680 6320  week's time,
+10000.0000 7040 8500  I have that
+11000.0000 8500 10340  impression we are still too integrated.
+13000.0000 10340 11800  to act
+14000.0000 11780 12780  alone and too
+14270.0000 12780 14060  divided to act together.

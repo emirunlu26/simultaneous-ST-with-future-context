@@ -1,0 +1,2 @@
+5610.0000 0 4920  We shall shortly be starting negotiations on the second reading of the energy liberalisation
+5610.0000 4920 5280  package.

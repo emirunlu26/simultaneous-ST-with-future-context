@@ -1,0 +1,4 @@
+8000.0000 0 5660  The most controversial part of the package centred on whether there was a need for full ownership
+12000.0000 5660 10780  and bundling in the energy markets. In other words, a total separation of transmission
+12280.0000 10780 11500  systems from
+12280.0000 11500 12040  generation.
