@@ -1,0 +1,3 @@
+Success rate for 50% of a reference sentence: 0.2%
+Success rate for 60% of a reference sentence: 0%
+Success rate for 70% of a reference sentence: 0.4%

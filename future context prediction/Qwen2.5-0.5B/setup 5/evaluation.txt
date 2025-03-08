@@ -1,0 +1,3 @@
+Success rate for 20% of a reference sentence: 39.2%
+Success rate for 30% of a reference sentence: 39.4%
+Success rate for 40% of a reference sentence: 38.8%
