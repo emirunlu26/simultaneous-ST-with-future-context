@@ -1,0 +1,29 @@
+Number of words predicted = 1
+
+Success rate for first 5 from the reference sentence: 24.9%
+Success rate for first 10 from the reference sentence: 26.2%
+Success rate for first 15 from the reference sentence: 25.1%
+Success rate for first 20 from the reference sentence: 25.6%
+Success rate for first 25 from the reference sentence: 30.7%
+Success rate for first 30 from the reference sentence: 20.0%
+Success rate for first 35 from the reference sentence: 19.0%
+Success rate for first 40 from the reference sentence: 20.9%
+Success rate for first 45 from the reference sentence: 30.0%
+Success rate for first 50 from the reference sentence: 0.0%
+--------------------------------------------------------------
+Number of words predicted = 2
+
+Success rate for first 5 from the reference sentence: 5.9%
+Success rate for first 10 from the reference sentence: 6.5%
+Success rate for first 15 from the reference sentence: 7.6%
+Success rate for first 20 from the reference sentence: 9.4%
+Success rate for first 25 from the reference sentence: 9.9%
+--------------------------------------------------------------
+Number of words predicted = 3
+
+Success rate for first 5 from the reference sentence: 1.2%
+Success rate for first 10 from the reference sentence: 3.1%
+Success rate for first 15 from the reference sentence: 2.8%
+Success rate for first 20 from the reference sentence: 4.3%
+Success rate for first 25 from the reference sentence: 5.7%
+--------------------------------------------------------------

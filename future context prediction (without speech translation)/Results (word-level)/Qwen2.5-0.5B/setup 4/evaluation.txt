@@ -1,0 +1,6 @@
+Success rate for first 5 from the reference sentence: 32.8%
+Success rate for first 10 from the reference sentence: 33.2%
+Success rate for first 15 from the reference sentence: 32.4%
+Success rate for first 20 from the reference sentence: 36.5%
+Success rate for first 25 from the reference sentence: 40.6%
+Success rate for first 30 from the reference sentence: 28%
