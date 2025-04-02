@@ -1,6 +1,0 @@
-Setup information:
-
-wait-k: 2, output rate: 2
-Prediction Probability Threshold for Future-Context Prediction: 0.8
-Maximum Sentences In Previous Context: 5
-Number of tokens predicted as future-context: 1
